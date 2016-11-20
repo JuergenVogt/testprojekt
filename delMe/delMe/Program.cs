@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 namespace delMe {
     class Program {
         static void Main(string[] args) {
+            Console.WriteLine("Git und Visual Studio");
+
+            Console.ReadKey();
         }
     }
 }

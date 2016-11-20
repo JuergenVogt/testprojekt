@@ -1,1 +1,2 @@
 C:\Users\Jürgen\Desktop\delMe\delMe\bin\Debug\delMe.exe.config
+C:\Users\Jürgen\Desktop\repositories_github_delMe\delMe\delMe\bin\Debug\delMe.exe.config
